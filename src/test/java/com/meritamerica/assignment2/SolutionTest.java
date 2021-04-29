@@ -32,9 +32,12 @@
  *
  * 14. You can click on the "Run Unit Tests" button to confirm it is working.
  */
-package com.meritamerica.assignment1;
+package com.meritamerica.assignment2;
 
 import org.junit.Test;
+
+import com.meritamerica.assignment2.AccountHolder;
+
 import static org.junit.Assert.*;
 
 public class SolutionTest {
